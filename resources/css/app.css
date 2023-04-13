@@ -1,0 +1,4 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+@import './custom_style.css';
+
+@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono:ital,wght@0,200;0,300;1,200&family=Lora:ital,wght@0,400;0,500;1,400&family=Ubuntu:ital,wght@0,400;0,500;1,300;1,400&display=swap');
